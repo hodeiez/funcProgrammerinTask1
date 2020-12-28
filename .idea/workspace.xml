@@ -2,102 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ebb4813-2f64-4541-a456-213deac3b2a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaDemo/LambdaDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaDemo/LambdaDemoPerson$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaDemo/LambdaDemoPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/FlattenCollection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/GetOldestPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/GetStats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Grouping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Joining.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/KidsNames.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/LessThanFour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Partitioning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/SumElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKata/UpperCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/FlattenCollection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/GetOldestPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/GetStats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Grouping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Joining.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/KidsNames.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/LessThanFour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Partitioning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/SumElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaKataFacit/UpperCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/EmptyParameterDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/EmptyParameterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/ListenerDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/LambdaParameterDemo/ListenerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/MapDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/StreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/StreamDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StreamDemo/totaleclipse.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/ConsumerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/PredicateExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/StringOperator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringOperatorDemo/StringOperatorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringPredicateDemo/FunctionalInterfaceDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/StringPredicateDemo/StringPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/BookUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1a_filter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1b_map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1c_flatmap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1d_reduce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1e_primitive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1f_sorting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1g_joining.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg1_BasicStreams/ÖvnUppg1h_maps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterface/MathOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterface/MathOperationMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterfaceFacit/MathOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2_FunctionalInterfaceFacit/MathOperationMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg2c_SingleDigitOperation/SingleDigitOperationMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg4_Databas/ÖvnUppg4_Databas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg5_URLWordCount/ÖvnUppg5_URLWordCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaFuncProg/ÖvnUppg5_URLWordCount/ÖvnUppg5_URLWordCountB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/FlattenCollectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/GetOldestPersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/GetStatsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/GroupingTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/JoiningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/KidsNamesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/LessThanFourTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/PartitioningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/SumElementsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKata/UpperCaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/FlattenCollectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/GetOldestPersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/GetStatsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/GroupingTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/JoiningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/KidsNamesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/LessThanFourTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/PartitioningTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/SumElementsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/LambdaKataFacit/UpperCaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/META-INF/JavaFuncProg.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JavaFuncProg/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/JavaÖvning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/src/Upp1/Upp1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaÖvning/src/Upp1/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg4_Databas/ÖvnUppg4_Databas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg4_Databas/ÖvnUppg4_DatabasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Inlämningsupgift/RewriteMeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFuncProg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFuncProg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inlämningsupgift/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/GetOldestPersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/GetOldestPersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/GetStatsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/GetStatsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/GroupingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/GroupingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/KidsNamesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/KidsNamesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/LessThanFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/LessThanFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/PartitioningTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/PartitioningTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/SumElementsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/SumElementsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/UpperCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/UpperCaseTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -127,8 +63,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -192,12 +128,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="147" />
     <option name="y" value="35" />
     <option name="width" value="1630" />
     <option name="height" value="966" />
   </component>
+  <component name="ProjectId" id="1ltBUAZOaKw5CG6kKjQQWx0Wyir" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -244,15 +184,26 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -261,6 +212,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s_ola\Dropbox\Jobb\Funktionell programmering\Kod\JavaFuncProg\test" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Inlämningsupgift" />
     </key>
@@ -268,23 +222,21 @@
       <recent name="ÖvnUppg2c_SingleDigitOperation" />
       <recent name="ÖvnUppg1_BasicStreams" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\s_ola\Dropbox\Jobb\Funktionell programmering\Kod\JavaFuncProg\test" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JUnit.RewriteMeTest">
+    <configuration name="RewriteMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMe" />
+      <module name="JavaFuncProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämningsupgift.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RewriteMeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFuncProg" />
       <extension name="coverage">
@@ -296,22 +248,6 @@
       <option name="PACKAGE_NAME" value="Inlämningsupgift" />
       <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RewriteMeTest.getAllAnswerOptionsDistinctTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaFuncProg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inlämningsupgift.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
-      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
-      <option name="METHOD_NAME" value="getAllAnswerOptionsDistinctTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -332,7 +268,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RewriteMeTest.getLongestLettercountAnwerInAGivenCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RewriteMeTest.getAnswerCandidateFrequncyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFuncProg" />
       <extension name="coverage">
         <pattern>
@@ -342,13 +278,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="Inlämningsupgift" />
       <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
-      <option name="METHOD_NAME" value="getLongestLettercountAnwerInAGivenCategoryTest" />
+      <option name="METHOD_NAME" value="getAnswerCandidateFrequncyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ÖvnUppg4_DatabasFacitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RewriteMeTest.isThisAnAnswerOption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaFuncProg" />
       <extension name="coverage">
         <pattern>
@@ -356,9 +292,10 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg4_Databas" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg4_Databas.ÖvnUppg4_DatabasFacitTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
+      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
+      <option name="METHOD_NAME" value="isThisAnAnswerOption" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -366,20 +303,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RewriteMeTest" />
-        <item itemvalue="JUnit.RewriteMeTest.getAllAnswerOptionsDistinctTest" />
+        <item itemvalue="Application.RewriteMe" />
+        <item itemvalue="JUnit.RewriteMeTest.getAnswerCandidateFrequncyTest" />
         <item itemvalue="JUnit.RewriteMeTest.getAmountOfQuestionsInDatabaseTest" />
-        <item itemvalue="JUnit.RewriteMeTest.getLongestLettercountAnwerInAGivenCategoryTest" />
-        <item itemvalue="JUnit.ÖvnUppg4_DatabasFacitTest" />
+        <item itemvalue="JUnit.RewriteMeTest.isThisAnAnswerOption" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/OneDrive/Dokument/Scala/övningsprojekt/example" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -397,6 +328,16 @@
       <workItem from="1605772079222" duration="10145000" />
       <workItem from="1606664250308" duration="3252000" />
       <workItem from="1607605970468" duration="573000" />
+      <workItem from="1608406521667" duration="2910000" />
+      <workItem from="1608459471954" duration="951000" />
+      <workItem from="1608467760853" duration="1331000" />
+      <workItem from="1608469106757" duration="3930000" />
+      <workItem from="1608572983073" duration="10243000" />
+      <workItem from="1608652091941" duration="7292000" />
+      <workItem from="1608800778626" duration="651000" />
+      <workItem from="1608972329950" duration="6481000" />
+      <workItem from="1609095744670" duration="508000" />
+      <workItem from="1609184287076" duration="1879000" />
     </task>
     <task id="LOCAL-00001" summary="Övningsuppgifter tillagda">
       <created>1599575662300</created>
@@ -540,7 +481,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Övningsuppgifter tillagda" />
@@ -548,6 +489,10 @@
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad" />
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad (igen)" />
     <option name="LAST_COMMIT_MESSAGE" value="Text i ÖvnUppg4 uppdaterad (igen)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/LambdaKata/KidsNamesTest.java">

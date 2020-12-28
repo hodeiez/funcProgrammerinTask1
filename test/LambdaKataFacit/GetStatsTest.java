@@ -4,6 +4,8 @@ package LambdaKataFacit;
 import java.util.List;
 import static java.util.Arrays.asList;
 import java.util.IntSummaryStatistics;
+import LambdaKataFacit.*;
+
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

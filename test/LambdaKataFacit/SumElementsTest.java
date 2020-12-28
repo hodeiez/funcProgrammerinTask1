@@ -4,6 +4,8 @@ package LambdaKataFacit;
 import java.util.List;
 import static java.util.Arrays.asList;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import LambdaKata.SumElements;
 import org.junit.jupiter.api.Test;
 
 /*

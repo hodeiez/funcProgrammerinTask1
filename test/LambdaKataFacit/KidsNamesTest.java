@@ -3,6 +3,8 @@ package LambdaKataFacit;
 
 import java.util.List;
 import static java.util.Arrays.asList;
+import LambdaKataFacit.Person;
+import LambdaKataFacit.*;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;

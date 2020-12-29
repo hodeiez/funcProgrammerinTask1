@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ebb4813-2f64-4541-a456-213deac3b2a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/JavaÖvning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/src/Upp1/Upp1Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaÖvning/src/Upp1/Util.java" afterDir="false" />
+    <list default="true" id="5ebb4813-2f64-4541-a456-213deac3b2a5" name="Default Changelist" comment="hodei test">
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/Uppgifts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppgifts/src/RewriteMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlinTest/src/mainTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlinTest/src/test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFuncProg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFuncProg.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inlämningsupgift/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämningsupgift/RewriteMe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/GetOldestPersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/GetOldestPersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/GetStatsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/GetStatsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/GroupingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/GroupingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/KidsNamesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/KidsNamesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/LessThanFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/LessThanFourTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/PartitioningTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/PartitioningTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/SumElementsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/SumElementsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LambdaKataFacit/UpperCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LambdaKataFacit/UpperCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaÖvning/src/Upp1/Upp1Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaÖvning/src/Upp1/Upp1Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterface/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterface/MathOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterface/MathOperationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg2_FunctionalInterface/MathOperationMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +203,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31724137" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -223,7 +217,20 @@
       <recent name="ÖvnUppg1_BasicStreams" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RewriteMeTest">
+  <component name="RunManager" selected="Application.MathOperationMain">
+    <configuration name="MathOperationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg2_FunctionalInterface.MathOperationMain" />
+      <module name="JavaFuncProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg2_FunctionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RewriteMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMe" />
       <module name="JavaFuncProg" />
@@ -284,29 +291,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RewriteMeTest.isThisAnAnswerOption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaFuncProg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inlämningsupgift.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Inlämningsupgift" />
-      <option name="MAIN_CLASS_NAME" value="Inlämningsupgift.RewriteMeTest" />
-      <option name="METHOD_NAME" value="isThisAnAnswerOption" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathOperationMain" />
         <item itemvalue="JUnit.RewriteMeTest" />
         <item itemvalue="Application.RewriteMe" />
         <item itemvalue="JUnit.RewriteMeTest.getAnswerCandidateFrequncyTest" />
         <item itemvalue="JUnit.RewriteMeTest.getAmountOfQuestionsInDatabaseTest" />
-        <item itemvalue="JUnit.RewriteMeTest.isThisAnAnswerOption" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +328,8 @@
       <workItem from="1608800778626" duration="651000" />
       <workItem from="1608972329950" duration="6481000" />
       <workItem from="1609095744670" duration="508000" />
-      <workItem from="1609184287076" duration="1879000" />
+      <workItem from="1609184287076" duration="4253000" />
+      <workItem from="1609269492848" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="Övningsuppgifter tillagda">
       <created>1599575662300</created>
@@ -374,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607606121962</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hodei test">
+      <created>1609193096674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609193096674</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -483,12 +482,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Övningsuppgifter tillagda" />
     <MESSAGE value="Tester till databas-uppgiften tillagda" />
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad" />
     <MESSAGE value="Text i ÖvnUppg4 uppdaterad (igen)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text i ÖvnUppg4 uppdaterad (igen)" />
+    <MESSAGE value="hodei test" />
+    <option name="LAST_COMMIT_MESSAGE" value="hodei test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

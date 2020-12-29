@@ -10,7 +10,7 @@ import java.util.List;
  * Project: JavaÖvning
  * Copyright: MIT
  */
-public class Util {
+public class BookUtil {
     public static List<Book> getList(){
         ArrayList<Book> books = new ArrayList();
         books.add(new Book("Titel1","hodei","essay","red",10,"hodei",true));

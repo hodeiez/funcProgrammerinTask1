@@ -4,7 +4,9 @@ import java.text.Collator;
 import java.util.Collection;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 import java.util.stream.Collectors;
+import Upp1.Book;
 
 /**
  * Created by Hodei Eceiza
@@ -65,18 +67,33 @@ public class Upp1Demo {
     public String getTitlesString(List<Book>books){
         return books.stream().map(Book::getTitle).collect(Collectors.joining(",","",""));
     }
+    //1h
+    public Map<Boolean,List<Book>> partitionByFact(List<Book>books){
+        return books.stream().collect(Collectors.partitioningBy(book->book.isFactOrFiction()==true));
+    }
+    public void factBooks(){
+        partitionByFact(BookUtil.getList()).forEach((k, v)-> System.out.println(k+" "+v.stream().collect(Collectors.toList())));
+    }
+    public Map<String,List<Book>> partitionByAuthor(List<Book> books){
+        return books.stream().collect(Collectors.groupingBy(book->book.getAuthor()));
+    }
+    public void byAuthor(){
+        partitionByAuthor(BookUtil.getList()).forEach((k, v)-> System.out.println(k + " "+ v.stream().collect(Collectors.toList())));
+    }
+    //by color its same as byAuthor...
     public static void main(String[] args) {
        Upp1Demo test=new Upp1Demo();
-        System.out.println(test.booksByAuthor("hodei",Util.getList()));
-        System.out.println(test.myBooksTitles("hodei",Util.getList()));
-        System.out.println(test.myBooksAuthors("hodei",Util.getList()));
-        System.out.println(test.getQualificationAverage(Util.getList()));
-        System.out.println(test.allTitleInString(Util.getList()));
-        System.out.println(test.myQualificationsAverage("hodei",Util.getList()));
-        System.out.println(test.amountOfMyBooksWithColor("hodei","red",Util.getList()));
-        System.out.println(test.sortByTitle(Util.getList()));
-        System.out.println(test.sortByRate(Util.getList()));
-        System.out.println(test.getTitlesString(Util.getList()));
-
+        System.out.println(test.booksByAuthor("hodei", BookUtil.getList()));
+        System.out.println(test.myBooksTitles("hodei", BookUtil.getList()));
+        System.out.println(test.myBooksAuthors("hodei", BookUtil.getList()));
+        System.out.println(test.getQualificationAverage(BookUtil.getList()));
+        System.out.println(test.allTitleInString(BookUtil.getList()));
+        System.out.println(test.myQualificationsAverage("hodei", BookUtil.getList()));
+        System.out.println(test.amountOfMyBooksWithColor("hodei","red", BookUtil.getList()));
+        System.out.println(test.sortByTitle(BookUtil.getList()));
+        System.out.println(test.sortByRate(BookUtil.getList()));
+        System.out.println(test.getTitlesString(BookUtil.getList()));
+        test.factBooks();
+        test.byAuthor();
     }
 }

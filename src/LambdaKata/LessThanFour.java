@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 public class LessThanFour {
 
     public static List<String> transform(List<String> l){
-        throw new UnsupportedOperationException("Not supported yet.");
+      return l.stream().filter(s->s.length() <4).collect(Collectors.toList());
+        //  throw new UnsupportedOperationException("Not supported yet.");
     }
 }

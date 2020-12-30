@@ -5,4 +5,8 @@
  * Project: kotlinTest
  * Copyright: MIT
  */
-fun main() {println("KAIXO MUNDU ZORAGARRIA")}
+fun main() {println("KAIXO MUNDU ZORAGARRIA")
+var zenbaki="zenbaki"
+println(zenbaki.toCharArray())
+
+}

@@ -7,5 +7,6 @@ package upp2c;
  * Project: JavaÖvning
  * Copyright: MIT
  */
-public class SingleDigitOperation {
+interface SingleDigitOperation {
+    int operate (int x);
 }

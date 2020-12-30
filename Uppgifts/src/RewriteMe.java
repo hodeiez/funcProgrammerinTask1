@@ -25,7 +25,7 @@ hon kollar att tillräckeligt många av tester går gröna. Pga detta ska ni int
 medföljande detta projekt, och inte heller metodsignaturerna i denna fil eller era tester, eftersom
 ni då riskerar att påverka rättningen i negativ riktning.
  */
-
+/*
 public class RewriteMe {
 
     public Database database = new Database();
@@ -123,4 +123,6 @@ public class RewriteMe {
     }
 
 }
+
+ */
 

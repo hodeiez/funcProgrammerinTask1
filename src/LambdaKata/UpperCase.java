@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 public class UpperCase {
 
     public static List<String> transform(List<String> l){
-        throw new UnsupportedOperationException("Not supported yet.");
+       // throw new UnsupportedOperationException("Not supported yet.");
+        return l.stream().map(String::toUpperCase).collect(Collectors.toList());
     }
 }

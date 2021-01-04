@@ -15,10 +15,10 @@ import java.util.stream.Collectors;
  * Copyright: MIT
  */
 public class Upp1Demo {
-    public List<Book> booksByAuthor(String author,List<Book> books){
+    public List<Book> booksByAuthor(String author, List<Book> books){
        return books.stream().filter(book ->book.getAuthor().equalsIgnoreCase(author)).collect(Collectors.toList());
     }
-    public List<Book> booksByColor(String color,List<Book> books){
+    public List<Book> booksByColor(String color, List<Book> books){
         return books.stream().filter(book->book.getColor().equalsIgnoreCase(color)).collect(Collectors.toList());
     }
     public int myBookAmount(String myName,List<Book> books){
@@ -38,10 +38,10 @@ public class Upp1Demo {
     }
     //1d
     public int getQualificationAverage(List<Book>books){
-        return books.stream().map(Book::getQualification).reduce(0,(f,s)->f+s/books.size());
+        return books.stream().map(Book::getQualification).reduce(0,(f, s)->f+s/books.size());
     }
     public String allTitleInString(List<Book> books){
-        return books.stream().map(Book::getTitle).reduce("",(f,s)->f+s+", ");
+        return books.stream().map(Book::getTitle).reduce("",(f, s)->f+s+", ");
     }
     //1e
     public int myQualificationsAverage(String myName,List<Book> books){
@@ -71,27 +71,27 @@ public class Upp1Demo {
         return books.stream().collect(Collectors.partitioningBy(book->book.isFactOrFiction()==true));
     }
     public void factBooks(){
-        partitionByFact(BookUtil.getList()).forEach((k, v)-> System.out.println(k+" "+v.stream().collect(Collectors.toList())));
+        partitionByFact(BookUtils.getList()).forEach((k, v)-> System.out.println(k+" "+v.stream().collect(Collectors.toList())));
     }
     public Map<String,List<Book>> partitionByAuthor(List<Book> books){
         return books.stream().collect(Collectors.groupingBy(book->book.getAuthor()));
     }
     public void byAuthor(){
-        partitionByAuthor(BookUtil.getList()).forEach((k, v)-> System.out.println(k + " "+ v.stream().collect(Collectors.toList())));
+        partitionByAuthor(BookUtils.getList()).forEach((k, v)-> System.out.println(k + " "+ v.stream().collect(Collectors.toList())));
     }
     //by color its same as byAuthor...
     public static void main(String[] args) {
        Upp1Demo test=new Upp1Demo();
-        System.out.println(test.booksByAuthor("hodei", BookUtil.getList()));
-        System.out.println(test.myBooksTitles("hodei", BookUtil.getList()));
-        System.out.println(test.myBooksAuthors("hodei", BookUtil.getList()));
-        System.out.println(test.getQualificationAverage(BookUtil.getList()));
-        System.out.println(test.allTitleInString(BookUtil.getList()));
-        System.out.println(test.myQualificationsAverage("hodei", BookUtil.getList()));
-        System.out.println(test.amountOfMyBooksWithColor("hodei","red", BookUtil.getList()));
-        System.out.println(test.sortByTitle(BookUtil.getList()));
-        System.out.println(test.sortByRate(BookUtil.getList()));
-        System.out.println(test.getTitlesString(BookUtil.getList()));
+        System.out.println(test.booksByAuthor("hodei", BookUtils.getList()));
+        System.out.println(test.myBooksTitles("hodei", BookUtils.getList()));
+        System.out.println(test.myBooksAuthors("hodei", BookUtils.getList()));
+        System.out.println(test.getQualificationAverage(BookUtils.getList()));
+        System.out.println(test.allTitleInString(BookUtils.getList()));
+        System.out.println(test.myQualificationsAverage("hodei", BookUtils.getList()));
+        System.out.println(test.amountOfMyBooksWithColor("hodei","red", BookUtils.getList()));
+        System.out.println(test.sortByTitle(BookUtils.getList()));
+        System.out.println(test.sortByRate(BookUtils.getList()));
+        System.out.println(test.getTitlesString(BookUtils.getList()));
         test.factBooks();
         test.byAuthor();
     }

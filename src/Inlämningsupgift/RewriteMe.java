@@ -34,7 +34,8 @@ public class RewriteMe {
     //Skriv en funktioner som returnerar hur många frågor det finns i databasen?
     public int getAmountOfQuestionsInDatabase() {
         // return questions.size(); //in this case I prefer using size,
-        return (int) questions.stream().count(); //I could filter to check if is a question object.
+      //  return (int) questions.stream().count(); //I could filter to check if is a question object.
+       return questions.stream().filter(q->q instanceof Question).collect(Collectors.toList()).size(); //quite complex, still I prefer just size for this case
         // throw new UnsupportedOperationException("Not supported yet.");
     }
 

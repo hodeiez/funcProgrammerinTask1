@@ -23,8 +23,12 @@ public class MathOperationMain {
       System.out.println("10 x 5 = " + operate(10, 5, multiplication));
       System.out.println("10 / 5 = " + operate(10, 5, division));
 
-      MathOperation testing=subtraction.sum(addition);
-      System.out.println(testing.operation(5,10));
+      MathOperation testing=multiplication.sum(subtraction);
+      MathOperation testing2=multiplication.sum(multiplication).divide(addition);
+      System.out.println(operate(10,5,testing));
+      System.out.println(operate(4,10,testing2));
+
+      //System.out.println(testing.operation(5,10));
 
    }
 }
